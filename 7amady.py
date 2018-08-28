@@ -25,7 +25,7 @@ except ImportError:
 	print '(o o)'.center(44)
 	print 'ooO--(_)--Ooo'.center(44)
 	print W + ' '
-	print ('O S I F').center(44)
+	print ('7amady').center(44)
 	print ' '
 	print "[!] Can't import module 'requests'\n"
 	sys.exit()
@@ -62,8 +62,8 @@ def baliho():
 		print '(o o)'.center(44)
 		print 'ooO--(_)--Ooo'.center(44)
 		print ' ' + W
-		print ('O S I F').center(44)
-		print (W + '     [' + G +'Open Source Information Facebook'+ W + ']')
+		print ('7amady').center(44)
+		print (W + '     [' + G +'Fuck Sources Information of Facebook'+ W + ']')
 		print ' '
 ####################################################################
 #		    Print In terminal
@@ -80,7 +80,7 @@ def show_program():
     Date       16/05/2018 09:35:12
     Team       X-Hack
     Email      mr.7amady@gmail.com
-    Telegram   @CiKu370
+    Telegram   @mr.7amady
 
 * if you find any errors or problems , please contact
   author
@@ -921,7 +921,7 @@ def main():
   global target_id
 
   try:
-	cek = raw_input(R + 'D3b2y' + W +' >> ')
+	cek = raw_input(R + '7amady' + W +' >> ')
 
 	if cek.lower() == 'get_data':
 		if len(jml) == 0:
